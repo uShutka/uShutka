@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Andrew Cosinov</h1>
+<h1 align="left" id="ushutka-title">:wave: Hello there! I'm Andrew Cosinov</h1>
 <h3 align="left">I am a Python Developer making scripts, web applications and chatbots.</h3>
 
 <p align="left">
@@ -57,7 +57,7 @@
       <br>Docker
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#ushutka-tech">
         <img src="https://www.debian.org/logos/openlogo-nd.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
