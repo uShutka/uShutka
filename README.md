@@ -76,7 +76,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#ushutka-tech">
-        <img src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" width="48" height="48" alt="Postgres" />
+        <img src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.1color_blue.svg" width="48" height="48" alt="Postgres" />
       </a>
       <br>MySQL
     </td>
