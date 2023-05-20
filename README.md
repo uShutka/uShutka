@@ -1,4 +1,4 @@
-<h1 align="left" id="ushutka-title">:wave: Hello there! I'm Andrew Cosinov</h1>
+<h1 align="left" id="ushutka-title">:wave: Hello there! I'm Ivan Serebrianskii</h1>
 <h3 align="left">I am a Python Developer making scripts, web applications and chatbots.</h3>
 
 <p align="left">
