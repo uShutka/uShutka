@@ -6,6 +6,8 @@ I build production-style Python systems for data collection, automation, analyti
 
 My main focus is turning raw, messy data into reliable tools: web scraping pipelines, browser automation, PostgreSQL databases, FastAPI services, data quality checks, dashboards, Telegram alerts, and analytical reports.
 
+Portfolio: [ushutka.github.io/portfolio](https://ushutka.github.io/portfolio/)
+
 ## Core Skills
 
 **Backend & Automation:** Python, FastAPI, Selenium, Playwright, REST APIs, Telegram Bot API
@@ -95,3 +97,5 @@ My projects usually include:
 ## Contact
 
 Open to freelance and remote work related to Python automation, data pipelines, scraping, analytics dashboards, and internal business tools.
+
+Portfolio: [https://ushutka.github.io/portfolio/](https://ushutka.github.io/portfolio/)
