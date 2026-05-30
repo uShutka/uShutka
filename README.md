@@ -1,84 +1,97 @@
-<h1 align="left" id="ushutka-title">:wave: Hello there! I'm Ivan Serebrianskii</h1>
-<h3 align="left">I am a Python Developer making scripts, web applications and chatbots.</h3>
+![Python Automation · Data Pipelines · Analytics Dashboards](assets/github-banner.png)
 
-<p align="left">
-  <a href="https://github.com/uShutka/uShutka">
-    <img src="https://komarev.com/ghpvc/?username=ushutka" alt="page views" />
-  </a>
-</p>
+# Python Automation & Data Analytics Engineer
 
-- :office: &nbsp;At the moment I am freelancing
-- :seedling: &nbsp;Currently I am developing in Python
+I build production-style Python systems for data collection, automation, analytics, and business reporting.
 
-<br>
+My main focus is turning raw, messy data into reliable tools: web scraping pipelines, browser automation, PostgreSQL databases, FastAPI services, data quality checks, dashboards, Telegram alerts, and analytical reports.
 
-<h2 align="left" id="ushutka-tech">Favorite Tech</h2>
+## Core Skills
 
-> Tools, languages, and other things that I like to work with.
+**Backend & Automation:** Python, FastAPI, Selenium, Playwright, REST APIs, Telegram Bot API
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>Html
-    </td>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://www.svgrepo.com/download/303263/css3-logo.svg" width="48" height="48" alt="css" />
-      </a>
-      <br>Css
-    </td>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://www.svgrepo.com/download/303206/javascript-logo.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#ushutka-tech" >
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#ushutka-tech">
-        <img src="https://www.debian.org/logos/openlogo-nd.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#ushutka-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#ushutka-tech">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#ushutka-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="Postgres" />
-      </a>
-      <br>Postgres
-    </td>
-  </tr>
-</table>
+**Data & Analytics:** SQL, PostgreSQL, pandas, data cleaning, KPI analysis, cohort analysis, RFM, dashboards
+
+**Engineering:** Docker, Docker Compose, pytest, GitHub Actions, logging, error handling, environment-based configuration
+
+**Data Pipelines:** ETL/ELT, scheduled jobs, validation, incremental loading, deduplication, monitoring
+
+## Featured Production-Style Projects
+
+### [Market Intelligence & Competitor Analytics Platform](https://github.com/uShutka/market-intelligence-platform)
+
+Production-style platform for collecting product prices from multiple sources, storing historical changes in PostgreSQL, detecting anomalies, exposing analytics through FastAPI, and sending Telegram alerts.
+
+**Stack:** Python, Playwright, FastAPI, PostgreSQL, SQLAlchemy, pandas, Docker, pytest, Streamlit
+
+### [Sales & Retention Analytics Warehouse](https://github.com/uShutka/sales-retention-analytics-warehouse)
+
+End-to-end analytics project with cleaned transactional data, SQL data marts, retention analysis, cohort reports, LTV, RFM segmentation, and business recommendations.
+
+**Stack:** Python, SQL, PostgreSQL, pandas, dbt-style modeling, Streamlit
+
+### [Data Quality Monitoring Platform](https://github.com/uShutka/data-quality-monitoring-platform)
+
+Data quality platform for validating datasets, detecting duplicates, nulls, invalid formats, outliers, schema issues, and generating structured reports.
+
+**Stack:** Python, pandas, FastAPI, PostgreSQL, Jinja2, Docker, pytest
+
+### [Freelance Job Market Intelligence System](https://github.com/uShutka/freelance-job-intelligence-system)
+
+System that collects freelance and remote job posts, extracts skills and rates, scores relevance, stores results, visualizes market trends, and sends Telegram notifications.
+
+**Stack:** Python, PostgreSQL, pandas, FastAPI, Streamlit, Telegram Bot API
+
+### [Selenium Workflow Automation Kit](https://github.com/uShutka/selenium-workflow-automation-kit)
+
+Production-style Selenium automation template with explicit waits, retries, logging, screenshots on failure, and Docker setup.
+
+**Stack:** Python, Selenium, Docker, pytest, logging
+
+### [API To Excel Reporting Tool](https://github.com/uShutka/api-to-excel-reporting-tool)
+
+Tool for collecting API data, transforming it with pandas, and generating clean Excel reports for business users.
+
+**Stack:** Python, REST APIs, pandas, openpyxl, reporting automation
+
+## What I Usually Build
+
+- Data collection and scraping systems
+- Browser automation workflows
+- SQL-based analytical reports
+- Business dashboards
+- Telegram bots and alerting systems
+- CSV/Excel automation
+- Data quality and validation tools
+- API services for internal tools
+
+## Data Analytics Skills
+
+- Exploratory data analysis
+- KPI design and reporting
+- Cohort and retention analysis
+- RFM segmentation
+- Price and competitor analytics
+- Data quality checks
+- Dashboard design
+- Business recommendations from raw data
+
+## Engineering Approach
+
+I focus on building maintainable systems, not one-file scripts.
+
+My projects usually include:
+
+- Clean project structure
+- Database schema design
+- Dockerized local setup
+- Automated tests
+- Logging and error handling
+- Environment-based configuration
+- API documentation
+- Analytical conclusions
+- Clear README and architecture description
+
+## Contact
+
+Open to freelance and remote work related to Python automation, data pipelines, scraping, analytics dashboards, and internal business tools.
